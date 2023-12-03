@@ -1,0 +1,4 @@
+123 Kerry 3.7
+145 Maureen 2.0
+543 Rema 2.4
+235 Sugar 3.9
